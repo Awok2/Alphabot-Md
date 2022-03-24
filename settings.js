@@ -19,7 +19,7 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "BoT Md" //namabot
-global.ownername= "ᴹᴿ᭄ AZWAN OFc ×፝֟͜×" //nama owner
+global.ownername= "ᴹᴿ᭄ AZWAN c ×፝֟͜×" //nama owner
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://zeeoneofc.github.io/"
