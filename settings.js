@@ -18,17 +18,17 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "AZWAn-Mdོ" //namabot
+global.botname = "BoT Md" //namabot
 global.ownername= "ᴹᴿ᭄ AZWAN OFc ×፝֟͜×" //nama owner
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "6288291659138" //nomor owner
-global.ownernomerr = "+6285791615047" // nmr owner
+global.ownernomer = "6288210387012" //nomor owner
+global.ownernomerr = "+6288210387012" // nmr owner
 global.thumbnail = "./image/lol_1.jpg" //foto bot ubah di folder image
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285794615047","6285794615047","6285794615047"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6288210387012","6288210387012","6288210387012"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© KONTL-Mdོ' //sticker wm
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
 global.sessionName = 'session'
