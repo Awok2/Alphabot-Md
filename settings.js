@@ -29,7 +29,7 @@ global.thumbnail = "./image/lol_1.jpg" //foto bot ubah di folder image
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6288210387012","6288210387012","6288291659138"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© AZWAN-MD' //sticker wm
+global.packname = '© AZWAN-MC' //sticker wm
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
